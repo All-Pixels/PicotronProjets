@@ -1,0 +1,45 @@
+picotron cartridge // www.picotron.net
+version 2
+
+:: gfx/
+:: gfx/0.gfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA2LTI0IDE1OjIyOjIwIixtb2RpZmllZD0iMjAyNS0w
+Ni0yNCAxNTozMTowNyIscmV2aXNpb249MjBdXWx6NAB_AAAAEjEAAPMhe1swXT17Ym1wPXB4dQBD
+IBAQBPBWBxAHwBfQF8AHEAfwVixmbGFncz0wLHBhbl94CADLeT0wLHpvb209OH0sPgAf8DEA----
+------------------------------------------------------------11BtPTh9fQ==
+:: gfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA2LTI0IDE1OjI2OjQ3Iixtb2RpZmllZD0iMjAyNS0w
+Ni0yNCAxNTozMTowNyJdXQ==
+:: map/
+:: map/0.map
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA2LTI0IDE1OjIyOjIwIixtb2RpZmllZD0iMjAyNS0w
+Ni0yNCAxNTozMTowNyIscmV2aXNpb249MTldXWx6NABqAAAAWhAAAPAIe3tibXA9dXNlcmRhdGEo
+ImkxNiIsMzIDAC8iMAEA--------------------_-EIIiksaGlkZGVuPWZhbHNlLHBhbl94PTAI
+ANJ5PTAsdGlsZV9oPTE2CgAQdwoAoHpvb209MC41fX0=
+:: map/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA2LTI0IDE1OjI2OjQ3Iixtb2RpZmllZD0iMjAyNS0w
+Ni0yNCAxNTozMTowNyJdXQ==
+:: sfx/
+:: sfx/0.sfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA2LTI0IDE1OjIyOjIwIixtb2RpZmllZD0iMjAyNS0w
+Ni0yNCAxNTozMTowNyIscmV2aXNpb249MTldXWx6NACgAAAACwoAAP8wcHh1AAMoAAAEAAQPQBAC
+DgABoAEgAqAOAA8QAA3wygECA0APD5AEBQYHQAyQCAkKC0AMkA8MDw0PDgxADPD-AQDr-yeqARAG
+DyAQASABIAHwAAIQAg4QASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBg4wAP------
+vR--AQCsz8gPQAAPEED--7Dw-wEA-_pQ-----yk=
+:: sfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA2LTI0IDE1OjI2OjQ3Iixtb2RpZmllZD0iMjAyNS0w
+Ni0yNCAxNTozMTowNyJdXQ==
+:: main.lua
+--[[pod_format="raw",created="2025-06-24 15:22:20",modified="2025-06-24 15:31:07",revision=40]]
+print ("Hello World ! Fred")
+:: second.lua
+--[[pod_format="raw",created="2025-06-24 15:28:29",modified="2025-06-24 15:31:07",revision=13]]
+-- Comment
+:: .info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI1LTA2LTI0IDE1OjI2OjQ3Iixtb2RpZmllZD0iMjAyNS0w
+Ni0yNCAxNTozMTowNyIscnVudGltZT0xOCx3b3Jrc3BhY2VzPXt7bG9jYXRpb249Im1haW4ubHVh
+IzEiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249InNlY29uZC5sdWEjMSIsd29ya3NwYWNl
+X2luZGV4PTF9LHtsb2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3BhY2VfaW5kZXg9Mn0se2xvY2F0
+aW9uPSJtYXAvMC5tYXAiLHdvcmtzcGFjZV9pbmRleD0zfSx7bG9jYXRpb249InNmeC8wLnNmeCIs
+d29ya3NwYWNlX2luZGV4PTR9fV1d
+:: [eoc]
